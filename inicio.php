@@ -10,7 +10,7 @@
     <title>Enfermaria</title>
     <link rel="icon" href="assets/img/icon.jpg">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
-    <link rel="stylesheet" href="assets/css/all.css">
+    <link rel="stylesheet" href="all.css">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <img src="assets/img/brasao.jpg" width="15%" padding="3%">
